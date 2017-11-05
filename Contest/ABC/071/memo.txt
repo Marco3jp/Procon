@@ -1,0 +1,13 @@
+R LL ww d W I xx NN Q UU XX VV MM oo BB a gg D K q c i mm e Y r h A l j OO TT J uu zz n
+
+X Y Y X X X Y Y X Y Y Y Y Y Y X Y X X X X X Y X X X X X X X Y Y X Y Y X
+3*2*3*1*2*2*2*3*1*2*3*3*3*3*3*1*2*1*2*2*2*2*2*1*2*2*2*2*2*2*2*3*1*2*3*1
+
+None-X = 3
+None-Y = 6
+X-X = 2
+Y-X = 1
+X-Y = 2
+Y-Y = 3
+
+30958682112
